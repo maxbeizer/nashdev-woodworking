@@ -15,6 +15,8 @@ Slack. PRs very much welcome
  <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/2006658/65913239-27455c00-e395-11e9-8ed4-5b6dc88dad50.png"><img src="https://user-images.githubusercontent.com/2006658/65913239-27455c00-e395-11e9-8ed4-5b6dc88dad50.png" alt="local lumber yards" style="max-width:100%;"></a>
 </details>
 
+h/t https://github.com/levicole
+
 Text version:
 
 | name                   | number       | location     | status     |
