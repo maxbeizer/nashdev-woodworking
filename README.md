@@ -17,19 +17,19 @@ Slack. PRs very much welcome
 
 Text version:
 
-| name                   | number       | location     | status          |
-| ---                    | ---          | ---          | ---             |
-| Willie Goad            | 615.516.2471 |              | :question_mark: |
-| Ben Kohler             | 615.424.5900 | Greenbrier   |                 |
-| South Nashville Lumber | 615.310.5414 |              |                 |
-| Lyles Lumber           | 615.767.2447 |              |                 |
-| Woodbury Lumber        | 615.563.2831 |              |                 |
-| Lobelville Lumber      | 931.264.0382 |              |                 |
-| Jay                    | 931.249.7502 | Burns TN     |                 |
-| Paul at Permavations   | 615.833.7742 |              |                 |
-| Mimms                  | 615.770.2802 |              |                 |
-| Chop Nashville         | 615.905.6096 |              |                 |
-| Ian Thompson           | 931.494.4522 | Portland, TN |                 |
+| name                   | number       | location     | status     |
+| ---                    | ---          | ---          | ---        |
+| Willie Goad            | 615.516.2471 |              | :question: |
+| Ben Kohler             | 615.424.5900 | Greenbrier   |            |
+| South Nashville Lumber | 615.310.5414 |              |            |
+| Lyles Lumber           | 615.767.2447 |              |            |
+| Woodbury Lumber        | 615.563.2831 |              |            |
+| Lobelville Lumber      | 931.264.0382 |              |            |
+| Jay                    | 931.249.7502 | Burns TN     |            |
+| Paul at Permavations   | 615.833.7742 |              |            |
+| Mimms                  | 615.770.2802 |              |            |
+| Chop Nashville         | 615.905.6096 |              |            |
+| Ian Thompson           | 931.494.4522 | Portland, TN |            |
 
 # YouTube Channels
 
