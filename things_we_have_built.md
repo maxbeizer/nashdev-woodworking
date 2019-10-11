@@ -10,3 +10,8 @@
 ## Ryan Tablada
 
 ![ryan](https://user-images.githubusercontent.com/2006658/66671111-f7157d00-ec20-11e9-8b9c-365adcf8fcc0.png)
+
+## Byron Albert
+![byron](https://user-images.githubusercontent.com/6773458/66673078-71480080-ec25-11e9-981a-92ca7629a2a1.png)
+![byron](https://user-images.githubusercontent.com/6773458/66673307-e6b3d100-ec25-11e9-8ba4-132e0ce14789.png)
+![byron](https://user-images.githubusercontent.com/6773458/66673353-021edc00-ec26-11e9-8da9-8c73683bbc6d.png)
