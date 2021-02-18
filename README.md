@@ -47,6 +47,7 @@ Text version:
 * [The Wood Whisperer](https://www.youtube.com/user/TheWoodWhisperer)
 * [Stumpy Nubs](https://www.youtube.com/user/StumpyNubsWorkshop)
 * [Andy Rawls](https://www.youtube.com/channel/UCBwNg2ZtfQAY4zvBbryDyAQ)
+* [Jon Peters](https://www.youtube.com/user/jonpeters1000)
 
 ## Hand Tools and Jointery
 
