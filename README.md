@@ -41,6 +41,8 @@ Text version:
 ## Beginners and Weekend Warrior
 
 * [Steve Ramsey - Woodworking for Mere Mortals](https://www.youtube.com/user/stevinmarin)
+* [3x3 Custom - Tamar](https://www.youtube.com/channel/UC39z4_U8Kls0llAij3RRZAQ/videos)
+* [Ana White](https://www.youtube.com/user/knockoffwood)
 
 ## Full Time Woodworking Channels
 
@@ -60,3 +62,22 @@ Text version:
 ## Luthiery (Guitar Building)
 
 * [Crimson Guitars](https://www.youtube.com/user/CrimsonCustomGuitars)
+* [twoodfrd](https://www.youtube.com/channel/UC8wIqZCt9h6uJbOBCQVuUmg)
+* [stewmac](https://www.youtube.com/channel/UCdr6rJVSSx54ByuY5U2ohTQ)
+
+## General
+
+* [izzy swan](https://www.youtube.com/channel/UCO39zTYpvWL5jx2q15Ma_Hw)
+* [jimmy diresta](https://www.youtube.com/channel/UCiEk4xHBbz0hZNIBBpowdYQ)
+* [matthias wandel](https://www.youtube.com/channel/UCckETVOT59aYw80B36aP9vw)
+* [matthew cremona](https://www.youtube.com/channel/UCDpL0v-Ifie7u05lbfO3zJQ)
+* [nick ferry](https://www.youtube.com/channel/UCrbGKAwkVaQmTowmTYBm5Vg)
+* [john heisz](https://www.youtube.com/channel/UCjA8vRlL1c7BDixQRJ39-LQ)
+* [diy builds](https://www.youtube.com/channel/UCoNdHj3AnsFD8IjLCxm4EFw)
+* [frank howarth](https://www.youtube.com/channel/UC3_VCOJMaivgcGqPCTePLBA)
+* [mr versachak](https://www.youtube.com/channel/UCtR8jLK-kxsecauYcG38R8g)
+* [Anne of All Trades](https://www.youtube.com/channel/UCCkFJmUgzrZdkeHl_qPItsA)
+
+## Engineering/Novel woodworking
+
+* [pocket 83](https://www.youtube.com/user/pocket83/videos)
